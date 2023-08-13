@@ -30,5 +30,5 @@ In the case you're using macOS or Linux then another additional step is to make 
 
 To remove "localhost:nnnn" or "Ely.by" from the Minecraft main menu and F3, add `-Dauthlibinjector.noShowServerName` to the Java arguments in the UltimMC settings.
 
-Fix 1
-////////////////////////////////////////////////////  No more need to have Java 18 forced (old version) & Authentification system fixed (thanks  Ar7hurz1nh0)   //////////////////////////////////////////////////////////
+### Fix 1
+////  No more need to have Java 18 forced (old version) & Authentification system fixed (thanks  Ar7hurz1nh0)  ////
