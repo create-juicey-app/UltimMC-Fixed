@@ -1,12 +1,10 @@
-# UltimMC
+# UltimMC Fixed
 
-## This is a "cracked" version of a popular Minecraft launcher that lets you play the game without a Microsoft account
-
-## This software is not related to MultiMC developers and provided without any warranty. Please don't bomb MultiMC developers if something gets wrong using this launcher
+## This is a "cracked" and fixed version of a popular Minecraft launcher that lets you play the game without a Microsoft account
 
 ## Pre-built binaries
 
-Please check the "Release" part to have the downloads
+Please check the **"Release"** page of github to get the **pre-built binaries**
 
 ## How to install and use
 
