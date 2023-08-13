@@ -29,3 +29,6 @@ To update the launcher replace all replaceable files and folders with the newer 
 In the case you're using macOS or Linux then another additional step is to make `UltimMC` an executable by running the command `chmod +x UltimMC.app/Contents/MacOS/UltimMC` in the terminal.
 
 To remove "localhost:nnnn" or "Ely.by" from the Minecraft main menu and F3, add `-Dauthlibinjector.noShowServerName` to the Java arguments in the UltimMC settings.
+
+Fix 1
+////////////////////////////////////////////////////  No more need to have Java 18 forced (old version) & Authentification system fixed (thanks  Ar7hurz1nh0)   //////////////////////////////////////////////////////////
